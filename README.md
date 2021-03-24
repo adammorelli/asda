@@ -15,4 +15,8 @@ aaaaaaűűűűűűűűűű
 áűáűűasdasd
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
 vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+<<<<<<< HEAD
 aaaaaaasdasddasdsaasdasdasd
+=======
+github desktop
+>>>>>>> af8b99afd25c56b12e4b0c1ee9199941eb7ed704
